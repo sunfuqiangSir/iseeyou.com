@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -120,6 +119,3 @@ algolia:
   applicationID: 010C3EANT8
   apiKey: c7abab9f11b79102b9aff7fe6d41447d
   indexName: Notes
-=======
-theme: jekyll-theme-tactile
->>>>>>> 1bd5c3f4cfa9c59a9094536dfcdf6d2d7b38716b
